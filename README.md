@@ -53,19 +53,12 @@ Aşağıdaki görseller, uygulamanın temel kullanıcı akışını göstermekte
 
 ### 1) Cüzdan bağlı durumu
 
-![Cüzdan bağlı durum](docs/screenshots/wallet-connected.svg)
+![Cüzdan bağlı durum](images/wallet.png)
 
 ### 2) Bakiye görünen durum
 
-![Bakiye görüntüleme](docs/screenshots/balance-displayed.svg)
+![Bakiye görüntüleme](images/display_campaign.png)
 
-### 3) Başarılı testnet işlemi
-
-![Başarılı işlem](docs/screenshots/transaction-success.svg)
-
-### 4) İşlem sonucu bildirimi
-
-![İşlem sonucu](docs/screenshots/transaction-result.svg)
 
 ## Tech Stack
 
