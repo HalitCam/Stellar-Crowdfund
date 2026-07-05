@@ -61,7 +61,8 @@ Aşağıdaki görseller, uygulamanın temel kullanıcı akışını göstermekte
 
 
 ## Tech Stack
-
+- OpenCode for Vibe Coding
+- Superpowers, An agentic skills
 - React 18 + Vite
 - Tailwind CSS
 - @stellar/stellar-sdk v12
